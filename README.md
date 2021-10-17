@@ -1,0 +1,2 @@
+# Node_Express_and_PostgreSQL_CRUD_with_Knex_Assignment_1
+Practice with Node_Express and PostgreSQL utilizing CRUD
